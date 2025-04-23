@@ -5,7 +5,7 @@ This is the frontend of the **Blink E-Commerce Platform**, built using **Angular
 ## 👨‍💻 My Role
 
 I developed the core features of the frontend, including:
-- User registration and JWT-based authentication
+- User registration,Forgot Password ,ResetPassword with verifiy code  and JWT-based authentication
 - Integration with backend APIs for product and order management
 - Stripe payment processing
 - Responsive and clean UI using Angular and Bootstrap
